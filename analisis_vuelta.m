@@ -1,6 +1,11 @@
 % ------------------------------
 % Script: analisis_vuelta.m
 % ------------------------------
+% -----------------------------------
+% Script: análisis_vuelta.m
+% Autor: Stefano 
+% Objetivo: Analizar velocidad y aceleración de un stint de F1
+% -----------------------------------
 
 % Cargar archivo CSV
 file_path = 'vuelta1.csv';  % O usá la ruta completa si es necesario
