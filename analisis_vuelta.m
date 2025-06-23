@@ -1,7 +1,4 @@
 % ------------------------------
-% Script: analisis_vuelta.m
-% ------------------------------
-% -----------------------------------
 % Script: análisis_vuelta.m
 % Autor: Stefano 
 % Objetivo: Analizar velocidad y aceleración de un stint de F1
