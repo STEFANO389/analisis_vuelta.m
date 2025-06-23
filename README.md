@@ -8,4 +8,3 @@ Incluye análisis inicial de comportamiento del vehículo durante una fase de ac
 
 Próximos pasos: agregar análisis de frenos, throttle y detección de curvas.
 
-# analisis_vuelta.m
